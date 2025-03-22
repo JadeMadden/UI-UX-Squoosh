@@ -105,3 +105,15 @@ WebP 75%
 ![Фото](images/photo7.webp)
 ![Фото](images/screenshot7.webp)
 ![Фото](images/graphic7.webp)
+
+WebP 50%
+| Назва зображення| Формат |Розмір (px) | Вага файлу | Зміна у % |
+|-----------|--------|------------|---------|---------|
+| photo8     | WEBP    | 2800 x 1575| 57.0 кб | -77% |
+| screenshot8 | WEBP    | 1920 x 1080| 79.4 кб | -85% |
+| graphic8  | WEBP   | 1920 x 1080| 62.0 кб | -68% |
+
+![Фото](images/photo8.webp)
+![Фото](images/screenshot8.webp)
+![Фото](images/graphic8.webp)
+
