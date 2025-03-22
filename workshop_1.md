@@ -160,3 +160,14 @@ AVIF 50%
 ![Фото](images/photo12.avif)
 ![Фото](images/screenshot12.avif)
 ![Фото](images/graphic12.avif)
+
+AVIF мінімальна якість
+| Назва зображення| Формат |Розмір (px) | Вага файлу | Зміна у % | Якість |
+|-----------|--------|------------|---------|---------|-------|
+| photo13     | AVIF    | 2800 x 1575| 12.7 кб | -95% | 20% |
+| screenshot13 | AVIF    | 1920 x 1080| 37.8 кб | -93% | 39% |
+| graphic13  | AVIF   | 1920 x 1080| 6.89 кб | -96% | 17% |
+
+![Фото](images/photo13.avif)
+![Фото](images/screenshot13.avif)
+![Фото](images/graphic13.avif)
