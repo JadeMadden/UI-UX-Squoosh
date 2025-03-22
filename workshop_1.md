@@ -138,3 +138,15 @@ AVIF 100%
 ![Фото](images/photo10.avif)
 ![Фото](images/screenshot10.avif)
 ![Фото](images/graphic10.avif)
+
+AVIF 75%
+| Назва зображення| Формат |Розмір (px) | Вага файлу | Зміна у % |
+|-----------|--------|------------|---------|---------|
+| photo11     | AVIF    | 2800 x 1575| 86.0 кб | -66% |
+| screenshot11 | AVIF    | 1920 x 1080| 140 кб | -73% |
+| graphic11  | AVIF   | 1920 x 1080| 106 кб | -46% |
+
+![Фото](images/photo11.avif)
+![Фото](images/screenshot11.avif)
+![Фото](images/graphic11.avif)
+
