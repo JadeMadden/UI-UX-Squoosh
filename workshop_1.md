@@ -127,3 +127,14 @@ WebP мінімальна якість
 ![Фото](images/photo9.webp)
 ![Фото](images/screenshot9.webp)
 ![Фото](images/graphic9.webp)
+
+AVIF 100%
+| Назва зображення| Формат |Розмір (px) | Вага файлу | Зміна у % |
+|-----------|--------|------------|---------|---------|
+| photo10     | AVIF    | 2800 x 1575| 364 кб | +45% |
+| screenshot10 | AVIF    | 1920 x 1080| 563 кб | +7% |
+| graphic10  | AVIF   | 1920 x 1080| 352 кб | +81% |
+
+![Фото](images/photo10.avif)
+![Фото](images/screenshot10.avif)
+![Фото](images/graphic10.avif)
