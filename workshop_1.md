@@ -179,9 +179,9 @@ AVIF мінімальна якість
 | graphic14  | jpg   | 190 кб | 1.29 мб (+564%) | 376 кб (+93%) | 4.33 мб (+2120%) |
 
 photo14
-![Фото](images/photo14(1).jpg)
-![Фото](images/photo14(2).jpg)
-![Фото](images/photo14(3).jpg)
+![Фото](images/photo14(1).png)
+![Фото](images/photo14(2).png)
+![Фото](images/photo14(3).png)
 
 screenshot14
 ![Фото](images/screenshot14(1).png)
@@ -189,6 +189,6 @@ screenshot14
 ![Фото](images/screenshot14(3).png)
 
 graphic14
-![Фото](images/graphic14(1).jpg)
-![Фото](images/graphic14(2).jpg)
-![Фото](images/graphic14(3).jpg)
+![Фото](images/graphic14(1).png)
+![Фото](images/graphic14(2).png)
+![Фото](images/graphic14(3).png)
