@@ -23,3 +23,8 @@ WebP
 | photo     | WebP    | 2800 x 1575| 1437 кб | +484% |
 | screenshot| WebP    | 1920 x 1080| 2130 кб | +314% |
 | graphic   | WebP   | 1920 x 1080| 1136 кб | +497% |
+
+Оптимізовані зображення WebP:
+![Фото](images/photo.webp)
+![Фото](images/screenshot.webp)
+![Фото](images/graphic.webp)
