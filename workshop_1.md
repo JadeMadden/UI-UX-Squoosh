@@ -171,3 +171,24 @@ AVIF мінімальна якість
 ![Фото](images/photo13.avif)
 ![Фото](images/screenshot13.avif)
 ![Фото](images/graphic13.avif)
+
+| Назва зображення| Формат | Оригін. розмір | Веб (1200px) | Мобайл (600px) | Retina 2x (2400px) |
+|-----------|--------|------------|---------|---------|---------|
+| photo14     | jpg    | 245 кб | 949 кб (+277%) | 256 кб (+2%) | 3.32 мб (+1220%) |
+| screenshot14 | png    | 514 кб | 1.55 мб (+194%) | 420 кб (-20%) | 5.25 мб (+898%) |
+| graphic14  | jpg   | 190 кб | 1.29 мб (+564%) | 376 кб (+93%) | 4.33 мб (+2120%) |
+
+photo14
+![Фото](images/photo14(1).jpg)
+![Фото](images/photo14(2).jpg)
+![Фото](images/photo14(3).jpg)
+
+screenshot14
+![Фото](images/screenshot14(1).png)
+![Фото](images/screenshot14(2).png)
+![Фото](images/screenshot14(3).png)
+
+graphic14
+![Фото](images/graphic14(1).jpg)
+![Фото](images/graphic14(2).jpg)
+![Фото](images/graphic14(3).jpg)
