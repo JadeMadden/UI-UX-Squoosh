@@ -47,3 +47,7 @@ lossy (MozJPEG 100%)
 | screenshot | JPG    | 1920 x 1080| 850 кб | +65% |
 | graphic  | JPG   | 1920 x 1080| 786 кб | +313% |
 
+![Фото](images/photo2.jpg)
+![Фото](images/screenshot2.jpg)
+![Фото](images/graphic2.jpg)
+
